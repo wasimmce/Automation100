@@ -5,8 +5,8 @@ Resource  ../../Resources/Resources1.robot
 
 Test Setup  Start and mazimize
 Test Teardown  close browser window
-Suite Setup  Before each test suite
-Suite Teardown  After each test suite
+Suite Setup  Before each test suites
+Suite Teardown  After each test suites
 Documentation  This file is genearl file for the robot framework commands
 Default Tags  DFT
 Force Tags  FRT

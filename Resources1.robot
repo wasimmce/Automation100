@@ -13,7 +13,7 @@ close browser window
     close all browsers
 
 Before each test suite
-    log  Before each test suite
+    log  Before each test suites
 
 After each test suite
-    log  after each test suite each test suite
+    log  after each test suite each test suites
